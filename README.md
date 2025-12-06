@@ -1,4 +1,4 @@
-# Drift Keyboard V3 by Timception (Dongle Version)  
+# Drift Keyboard V3 by Timception (NV Screen Version)  
 
 ![Drift Keyboard V3 by Timception](https://github.com/Timception/drift-v3-dongle/blob/main/keymap-drawer/DriftJTK-HyperfusenoBG.png)
 
