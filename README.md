@@ -3,8 +3,8 @@
 ![Drift Keyboard V3 by Timception](https://github.com/Timception/drift-v3-dongle/blob/main/keymap-drawer/DriftJTK-HyperfusenoBG.png)
 
 Firmware for the **Drift Keyboard V3 by Timception** with **ZMK Studio** enabled.  
-This version replaces the previous builds and makes it much easier to view and customize your layout directly in [ZMK Studio](https://studio.zmk.dev).
-
+This version replaces the previous builds and makes it much easier to view and customize your layout directly in [ZMK Studio](https://studio.zmk.dev).  
+!! If you are not using the 5-pin nice!view screens do not use this firmware !!  
 ---
 
 ## ✨ Features
@@ -93,6 +93,7 @@ This project makes use of code and ideas from the following repositories:
 - [ZMK Firmware](https://github.com/zmkfirmware) (MIT License) - Zephyr™ Mechanical Keyboard (ZMK) Firmware  
 - [leafflat/sai44](https://github.com/leafflat/sai44) (MIT License) – Dongle code reference  
 - [caksoylar](https://github.com/caksoylar/keymap-drawer) (MIT License) - Keymap Drawer  
+- [badjeff](https://github.com/badjeff/zmk-behavior-key-press-lip) - LIP Key Press Behavior  
 
 All third-party code remains under their original licenses (MIT).  
 
