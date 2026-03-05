@@ -93,9 +93,9 @@ This project makes use of code and ideas from the following repositories:
 - [ZMK Firmware](https://github.com/zmkfirmware) (MIT License) - Zephyr™ Mechanical Keyboard (ZMK) Firmware  
 - [leafflat/sai44](https://github.com/leafflat/sai44) (MIT License) – Dongle code reference  
 - [caksoylar](https://github.com/caksoylar/keymap-drawer) (MIT License) - Keymap Drawer  
-- [badjeff](https://github.com/badjeff/zmk-behavior-key-press-lip) - LIP Key Press Behavior  
+- [badjeff/zmk-behavior-key-press-lip](https://github.com/badjeff/zmk-behavior-key-press-lip) - LIP Key Press Behavior  
 
-All third-party code remains under their original licenses (MIT).  
+All third-party code remains under their original licenses.  
 
 ---
 
