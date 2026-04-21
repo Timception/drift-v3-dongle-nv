@@ -2,14 +2,14 @@
 
 ![Drift Keyboard V3 by Timception](https://github.com/Timception/drift-v3-dongle/blob/main/keymap-drawer/DriftJTK-HyperfusenoBG.png)
 
-Firmware for the **Drift Keyboard V3 by Timception** with **ZMK Studio** enabled.  
-This version replaces the previous builds and makes it much easier to view and customize your layout directly in [ZMK Studio](https://studio.zmk.dev).  
+Customize your layout directly in [ZMK Studio](https://studio.zmk.dev).  
+
 !! If you are not using the 5-pin nice!view screens do not use this firmware !!  
 ---
 
 ## ✨ Features
 - ✅ Precompiled firmware builds ready to flash  
-- ✅ ZMK Studio support (view & change keymaps live) 
+- ✅ ZMK Studio support (view & change keymaps live)  
 - ✅ Simple reset/reflash procedure  
 
 ---
@@ -19,10 +19,10 @@ How to [install batteries](/battery/) and Charging.
 
 ---
 
-## 🔄 Reflashing Instructions
+## 🔄 Reflashing Instructions  
 
 If your keyboard already has firmware installed, you usually don’t need to reflash.  
-But if you want to update to the latest build, here’s how to do it:
+But if you want to update to the latest build, here’s how to do it:  
 
 1. **Download the latest firmware**  
    - Go to the **[Actions tab](https://github.com/Timception/drift-v3-dongle/actions)** in this repo.  
@@ -32,7 +32,6 @@ But if you want to update to the latest build, here’s how to do it:
    - Inside you’ll find multiple `.uf2` files:       
      - `drift_central_dongle.uf2` → Dongle firmware  
      - `drift_left.uf2` → Left half firmware  
-	 - `drift_left_central.uf2` → No Dongle (Left half acts as central - standard bluetooth)  
      - `drift_right.uf2` → Right half firmware  
 	 - `settings_reset-nice_nano_v2-zmk.uf2` → Settings Reset firmware (needed to clean devices before new firmware)  
 
