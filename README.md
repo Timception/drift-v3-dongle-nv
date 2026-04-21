@@ -25,7 +25,7 @@ If your keyboard already has firmware installed, you usually don’t need to ref
 But if you want to update to the latest build, here’s how to do it:  
 
 1. **Download the latest firmware**  
-   - Go to the **[Actions tab](https://github.com/Timception/drift-v3-dongle/actions)** in this repo.  
+   - Go to the **[precompiled-firmware](https://github.com/Timception/drift-v3-dongle-nv/tree/main/precompiled-firmware)** in this repo.  
    - Open the latest successful build and download the **firmware .zip file**.
 
 2. **Unzip the file**  
